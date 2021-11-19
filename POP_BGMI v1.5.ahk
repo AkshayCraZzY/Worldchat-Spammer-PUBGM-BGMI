@@ -160,7 +160,7 @@ Loop,
 	CoordMode, Pixel, Window
 	
 	;msg1=#THANKSē%currName%ēFORēPOPULARITYē660UCēSENTēCHECKFAST
-	;;;if Mod(A_Index,2)=0
+	;;if Mod(A_Index,2)=0
 /*
 
 
