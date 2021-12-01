@@ -1,7 +1,7 @@
 
 <h1 align="center">Worldchat-Spammer-PUBGM-BGMI</h1>
-<b align="center">May ban your account!
-</b>
+<P align="center">May ban your account!
+</P>
 
 
 <p align="center">
